@@ -1,0 +1,32 @@
+.bodyeffect {
+  background-color: black;
+  text-align: center;
+}
+
+
+.toptitle {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-aling: center;
+}
+.downloadtitle {
+  color: aquamarine;
+  font-size: 16px;
+}
+.midtitle {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+.midsmalltitle {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  }
+  .excursiontitle {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+  }
